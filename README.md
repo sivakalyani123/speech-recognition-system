@@ -20,14 +20,14 @@ This is a Python-based speech-to-text tool that converts spoken audio (from `.wa
 ---
 
 ## 📂 Project Structure
-
+```
 speech-recognition-system/
 │
 ├── speech_to_text.py # Main Python script
 ├── sample.wav # Sample audio file (user recorded)
 ├── requirements.txt # Required Python packages
 └── README.md # Project documentation
-
+```
 🛠️ Requirements
 
 - Python 3.8 or later
@@ -40,16 +40,10 @@ speech-recognition-system/
 📦 Installation
 
 Install the required libraries using:
-
-```bash
 pip install -r requirements.txt
 
 How to Use
 Place a short .wav audio clip in the project directory and rename it to sample.wav
 
 Run the script:
-
-bash
-Copy
-Edit
 python speech_to_text.py
