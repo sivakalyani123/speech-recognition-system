@@ -43,6 +43,7 @@ Install the required libraries using:
 pip install -r requirements.txt
 
 How to Use
+
 Place a short .wav audio clip in the project directory and rename it to sample.wav
 
 Run the script:
