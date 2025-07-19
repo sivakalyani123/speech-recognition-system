@@ -1,3 +1,15 @@
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : SIVA KALYANI S
+
+INTERN ID : CT04DG190
+
+DOMAIN : ARTIFICIAL INTELLIGENCE
+
+DURATION : 4WEEKS
+
+MENTOR : NEELA SANTOSH
+
 # 🗣️ Speech Recognition System
 
 This is a Python-based speech-to-text tool that converts spoken audio (from `.wav` files) into written text using the `SpeechRecognition` library and Google Web Speech API.
